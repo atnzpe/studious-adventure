@@ -10,7 +10,7 @@ Este projeto foi feito a partir de aulas Diponibilizadas no endereço: https://w
 * **Cor**;
 * **Modelo**;
 * **Ano**; e
-* Valor.
+* **Valor**.
 
 Uma bicicleta pode:
 
