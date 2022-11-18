@@ -5,4 +5,6 @@ class Bicicleta:
         self.ano = ano
         self.valor = valor
 
-        
+    def buzinar(self):
+        print("Sai da frente !!!")
+
