@@ -11,3 +11,7 @@ class Bicicleta:
         songs_list = ["Sai da frente !!!","Muuuuu","HuaHaHaHaHaHA"]
         print(random.choice(songs_list))
 
+    def frear(self):
+        print("Diminuindo velocidade ...")
+        print("Biclicleta parada!")
+
